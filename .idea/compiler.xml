@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="page-object-model-page-factory" />
+        <module name="page-object-model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="page-object-model-page-factory" target="11" />
+      <module name="page-object-model" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

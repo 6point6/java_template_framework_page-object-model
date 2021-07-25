@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/page-object-model-page-factory/page-object-model-page-factory.iml" filepath="$PROJECT_DIR$/page-object-model-page-factory/page-object-model-page-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/page-object-model-page-factory/page-object-model.iml" filepath="$PROJECT_DIR$/page-object-model-page-factory/page-object-model.iml" />
     </modules>
   </component>
 </project>
